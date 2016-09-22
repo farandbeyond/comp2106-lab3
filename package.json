@@ -1,0 +1,17 @@
+{
+  "name": "Assignment3",
+  "version": "1.0.0",
+  "description": "Assignment 3",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "nodemon": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Connor Hadley",
+  "license": "ISC"
+}
